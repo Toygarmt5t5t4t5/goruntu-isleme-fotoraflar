@@ -32,3 +32,6 @@
 
 `git push`
 
+### !! eklediğin fotorafları images klosörüne atki karışmasın
+### BİRŞEYDE TAKILIRSAN BANA YAZ 
+
