@@ -1,4 +1,4 @@
-# goruntu-i-leme-fotoraflar
+# goruntu-isleme-fotoraflar
 
 ## görüntü işlemede kullanılacak fotoraflar
 
